@@ -1,0 +1,1 @@
+This is a demo fullscreen app made as simple as possible. It displays "I am fullscreen :)" in the center of the screen.
